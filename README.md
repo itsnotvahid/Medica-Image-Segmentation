@@ -1,6 +1,6 @@
 Medical Image Segmentation Using Pytorch
 
-using [Kaggle Competition DataSet](https://www.kaggle.com/competitions/uw-madison-gi-tract-image-segmentation)
+with [Kaggle Competition DataSet](https://www.kaggle.com/competitions/uw-madison-gi-tract-image-segmentation)
 
 There is afew Dataset :
 
