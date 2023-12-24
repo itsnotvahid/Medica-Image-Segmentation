@@ -2,7 +2,7 @@ Medical Image Segmentation Using Pytorch
 
 with [Kaggle Competition DataSet](https://www.kaggle.com/competitions/uw-madison-gi-tract-image-segmentation)
 
-There is afew Dataset :
+about notebooks :
 
 preprocess and visaulize is dataframe preparing for the task and visualizing afew samples
 
